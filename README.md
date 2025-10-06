@@ -5,7 +5,7 @@ Proyek ini menganalisis data penyewaan sepeda di untuk memahami pola permintaan 
 * Mengembangkan model prediksi demand untuk memperkirakan jumlah sepeda yang akan disewa
 * Memberikan insight bagi pengelola layanan dalam mengoptimalkan operasional
 # Dataset
-* Menggunakan dataset https://www.kaggle.com/datasets/saurabhshahane/seoul-bike-sharing-demand-prediction/data
+* Menggunakan dataset dari [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/seoul-bike-sharing-demand-prediction/data)
 * Periode Desember 2017 - November 2018
 * Berjumlah 8760 data
 * Target variabel:
