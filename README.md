@@ -1,1 +1,1 @@
-# seoul-bike-sharing
+# Seoul Bike Sharing and Demand Prediction
