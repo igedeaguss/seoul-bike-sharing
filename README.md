@@ -1,5 +1,8 @@
 # Seoul Bike Sharing and Demand Prediction
-Proyek ini menganalisis data penyewaan sepeda di untuk memahami pola permintaan dan membangun model prediksi jumlah penyewaan berdasarkan kondisi cuaca, waktu, dan faktor lingkungan. [Slide Presentasi](https://docs.google.com/presentation/d/10peSghYdIT2-QgrWaoSJ-F3x3uxfOi0XNgcOYJgGs7g/edit?usp=sharing)
+Proyek ini menganalisis data penyewaan sepeda di untuk memahami pola permintaan dan membangun model prediksi jumlah penyewaan berdasarkan kondisi cuaca, waktu, dan faktor lingkungan. 
+
+* [Slide Presentasi](https://docs.google.com/presentation/d/10peSghYdIT2-QgrWaoSJ-F3x3uxfOi0XNgcOYJgGs7g/edit?usp=sharing)
+* [Web App](https://bike-sharing-demand-predict.streamlit.app/)
 # Tujuan Proyek
 * Mengidentifikasi pola penggunaan sepeda berdasarkan musim, waktu, dan suhu
 * Mengembangkan model prediksi demand untuk memperkirakan jumlah sepeda yang akan disewa
