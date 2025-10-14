@@ -38,6 +38,18 @@ Linear Regression, Random Forest, dan XGBoost. Linear Regression digunakan sebag
 
 * Demand sepeda sangat dipengaruhi kondisi cuaca dan pola jam sibuk, sedangkan musim dan weekend/weekday berperan sebagai faktor sekunder
 
+# Dashboard
+![Seoul_Bike_Sharing_Dashboard](https://github.com/user-attachments/assets/478e2bbc-b9d4-4ddb-84b9-cea047d44a01)
 
+[Dashboard](https://lookerstudio.google.com/reporting/b365f1ad-39f9-4ad3-9817-861c0f988e15) ini dibuat di Looker Studio dan untuk mengaksesnya perlu login ke akun Gmail. Tujuan pembuatan dashboard adalah untuk memahami pola penyewaan sepeda berdasarkan faktor dan kondisi cuaca sepanjang tahun 2017-2018. 
+
+
+Selama periode pengataman, terdapat 6.17 juta transaksi penyewaan dengan rata-rata 704 penyewaan per hari. Mayoritas terjadi pada hari tanpa hujan (97%) yang menunjukkan cuaca kering merupakan kondisi dominan untuk penggunaan sepeda. Grafik tren bulanan menunjukkan fluktuasi yang mengikuti perubahan musim. Musim panas (Juni - Agustus) memiliki jumlah penyewaan tertinggi dan di musim dingin (Desember-Februari) menunjukkan penurunan signifikan. Ada keterkaitan antara kondisi iklim dan perilaku penyewaan. Saat suhu hangat, orang-orang cenderung melakukan penyewaan sepeda
+
+Jumlah penyewaan meningkat signifikan pada pukul 7 - 9 pagi dan 17-19 sore, terutama di hari kerja. Temuan ini menunjukkan pola mobilitas pada berangkat dan pulang kerja dengan sepeda menjadi pilihan transportasi yang efisien
+
+Berdasarkan musim dan tipe hari, musim panas menyumbang proporsi terbesar (37%) dan hari kerja (weekday) mendominasi penyewaan (70%) dibanding akhir pekan (30%). Hal ini menunjukkan jika sepeda bukan hanya rekreasi tetapi sudah menjadi bagian dari rutinitas masyarakat
+
+Berdasarkan hubungan suhu dan jumlah penyewaan, penyewaan meningkat seiring dengan kenaikan suhu hingga di titik optimal sekitar 20-25 C dan menurun saat suhu terlalu tinggi atau rendah. Penyewaan cenderung menurun saat kelembapan tinggi (>80%) yang dimungkinkan kondisi udara tidak nyaman. Kecepatan angin tidak terlalu berpengaruh, namun angin kencang sedikit menurunkan minat pengguna. Artinya kenyamanan cuaca (suhu sedang, udara kering, tanpa hujan) menjadi faktor penting dalam keputusan menggunakan sepeda
 
 
